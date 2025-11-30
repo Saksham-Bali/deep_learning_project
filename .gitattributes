@@ -1,0 +1,4 @@
+*.sh linguist-language=python
+*.h linguist-language=python
+*.hpp linguist-language=python
+*.gif filter=lfs diff=lfs merge=lfs -text
