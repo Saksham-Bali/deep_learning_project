@@ -196,7 +196,9 @@ By integrating **Dynamic Graph Convolutions** and **Density-Aware Sampling**, we
 Although the global mIoU saw a small reduction compared to SOTA, the improvements on critical underrepresented classes validated the effectiveness of our architectural choices.
 
 ## 9. Video
-[Watch Video](DL.mp4)
+
+Link to video: https://drive.google.com/file/d/1hkaGuuOQyt6X4U4AwrP8U4MmHDEjUXKB/view?usp=sharing
+
 
 
 
