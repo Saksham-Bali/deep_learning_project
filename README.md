@@ -195,3 +195,8 @@ This project demonstrated that improving **local neighborhood quality** and **sa
 By integrating **Dynamic Graph Convolutions** and **Density-Aware Sampling**, we addressed the two primary weaknesses of RandLA-Net.
 Although the global mIoU saw a small reduction compared to SOTA, the improvements on critical underrepresented classes validated the effectiveness of our architectural choices.
 
+## 9. Video
+[Watch Video](DL.mp4)
+
+
+
