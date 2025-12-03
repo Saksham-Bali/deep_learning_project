@@ -86,6 +86,7 @@ Each layer performs two-stage aggregation:
 * **5 decoder layers** reconstruct original resolution via nearest-neighbor interpolation.
 * Skip connections fuse geometric detail with semantic features.
 
+#### LFA Module
 ![LFA Module](results_visualization/LFA_module.png)
 
 ### 5.2 Limitations Observed
@@ -174,12 +175,17 @@ Steps:
 However, the model became more robust across classes and better balanced.
 
 
-### 7.3 Visualizations
+### 7.3 Results
 
+#### SOTA mIoU Comparison
 ![SOTA mIoU Comparison](results_visualization/SOTA_m_IoU.png)
+#### Our Model mIoU
 ![Our Model mIoU](results_visualization/our_model_m_IoU.jpg)
+#### Error Map
 ![Error Map](results_visualization/error_map.png)
+#### Ground Truth 3D Visualization
 ![Ground Truth 3D Visualization](results_visualization/ground_truth_3D_visualization.png)
+#### Predictions 3D Visualization
 ![Predictions 3D Visualization](results_visualization/predictions_3D_visualization.png)
 
 ## 8. Conclusion
